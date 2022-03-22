@@ -1,7 +1,7 @@
 {
   "name": "nextjs-typescript-starter",
   "version": "1.0.0",
-  "description": "A starter kit for Next.js + TypeScript + TailwindCSS",
+  "description": "Next.js starter template with TypeScript + TailwindCSS",
   "author": "Martín M.",
   "scripts": {
     "build": "next build",
